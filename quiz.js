@@ -20,7 +20,7 @@
 
 document.addEventListener('DOMContentLoaded', function() {
   /* Must be two. */
-  var teams = ['Team 1', 'Team 2'];
+  var teams = ['正解', '不正解'];
 
   var strTie = 'Tie';
   var strClose = 'Close';
